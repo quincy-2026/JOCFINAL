@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Non-Academics</title>
+	<link rel="stylesheet" href = "stylesheetindex.css">
+</head>
+
+<h1>Extra Curricular Activities 2022-2023</h1>
+
+<body>
+           <img src = "name_of_image.jpg">
+
+	<p>Write a couple sentences explaining the image above.</p>
+           
+            <img src = "name_of_another_image.jpg">
+
+           <p>Write a couple sentences explaining the image above.</p>
+
+	
+</body>
+
+</html>
